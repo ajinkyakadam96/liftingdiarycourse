@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install:*)",
+      "Bash(npm i:*)",
+      "mcp__neon__search",
+      "mcp__neon__get_database_tables",
+      "mcp__neon__describe_table_schema",
+      "mcp__neon__run_sql_transaction",
+      "mcp__neon__run_sql"
+    ]
+  }
+}
