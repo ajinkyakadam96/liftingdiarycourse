@@ -11,6 +11,18 @@ This is a Next.js 16 application for a lifting diary course, built with:
 - **Tailwind CSS 4** (with @tailwindcss/postcss)
 - **ESLint 9** (with Next.js config)
 
+## Documentation Reference
+
+**CRITICAL: ALWAYS consult the `/docs` directory FIRST before generating any code.**
+
+Before writing or modifying code:
+1. Check for relevant documentation files in `/docs` directory
+2. Review the official documentation for the technology/library you're working with
+3. Follow patterns and conventions specified in the docs
+4. If no docs exist for a specific feature, create documentation as you implement
+
+All code generation must be informed by and consistent with the documentation in `/docs`.
+
 ## Development Commands
 
 ```bash
